@@ -2,6 +2,7 @@
 
 void curConverter (double usd, double *yen, double *dkk, double *eur, double *rub);
 
+
 int main(void){
 
     double usd, yen, dkk, eur, rub;
