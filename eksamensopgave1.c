@@ -8,7 +8,11 @@ int binaryOperatorCheck(char *userOperatorInput);
 
 /*Navn: Max Anders Ranert-Hansen
 
+Email: marh23@student.aau.dk
 
+Gruppe: Gruppe 1
+
+Studieretning: CCT
 
 */
 
@@ -64,6 +68,8 @@ int binaryOperatorCheck(char *userOperatorInput){
         return 0;
     }
 }
+
+// doNextOp udregner matematikken udfra brugerens input
 
 void doNextOp(double *userOperandInput,char *userOperatorInput ,double *accumulator){
 

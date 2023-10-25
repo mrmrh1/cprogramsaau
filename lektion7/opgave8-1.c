@@ -46,7 +46,6 @@ void maaltid(forret *fr, hovedret *hr, desert *dt){
     genForret(fr);
     genHovedret(hr);
     genDesert(dt);
-
 }
 
 void rnGen(forret *fr, hovedret *hr, desert *dt){
